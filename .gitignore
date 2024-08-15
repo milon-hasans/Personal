@@ -1,2 +1,4 @@
-mylogs.log
+/mylogs.log
 logs/mylog.log
+*.log
+Ignore/
